@@ -72,7 +72,7 @@ function listenToQueue() {
               nationId:data.nationId || 21,
               username:username,
               banned:false,
-              mooderator:false,
+              moderator:false,
               isVip:false,
               providerId,
               response:"Success",
