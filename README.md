@@ -2,8 +2,9 @@
 
 # 📦 Madfut Private Server – Trading Backend
 
-**standalone.js** - Fully without the real madfut database, only modded client to modded client trading
+
 **index.js** - Works for Modded client and the normal client aswell!
+**standalone.js** - Fully without the real madfut database, only modded client to modded client trading
 
 
 
