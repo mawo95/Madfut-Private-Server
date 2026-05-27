@@ -5,7 +5,9 @@
 **standalone.js** - Fully without the real madfut database, only modded client to modded client trading
 **index.js** - Works for Modded client and the normal client aswell!
 
-https://github.com/mawo95/Madfut-Private-Server/raw/refs/heads/main/showcase.mp4
+<video width="320" height="240" controls>
+  <source src="https://github.com/mawo95/Madfut-Private-Server/raw/refs/heads/main/showcase.mp4" type="video/mp4">
+</video>
 
 ## ⚠️ Important Notice
 
